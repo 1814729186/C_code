@@ -1,2 +1,2 @@
-# practice
-study
+# C_code
+University Daily Projects
